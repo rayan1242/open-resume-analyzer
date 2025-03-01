@@ -59,6 +59,3 @@ There are many ways to deploy a Vite React app, but here's one way:
 1. Create a production build: `npm run build`
 2. Upload the contents of the dist directory to your web server
 3. Done!
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](../main/LICENSE) file for details.
